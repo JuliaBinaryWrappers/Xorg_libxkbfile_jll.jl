@@ -1,111 +1,119 @@
 [[Xorg_libxkbfile]]
 arch = "aarch64"
-git-tree-sha1 = "d5d4db15602a44e20db52bd90dabe417c28a05eb"
+git-tree-sha1 = "292516a89bd09eab5104f587b72ad8fbd76b5c1e"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libxkbfile.download]]
-    sha256 = "b00a9d7e83361d077d23032e7de923fce230fdb1616bb878027b54e1fec739f7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "0c9a73a024a460e995cc0be8d1c62d8d412e70c1a6500e64986d95fcf79fcc5f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.aarch64-linux-gnu.tar.gz"
 [[Xorg_libxkbfile]]
 arch = "aarch64"
-git-tree-sha1 = "fada3a4ca2593a2cda48d32f0ef589c2bca8cd6d"
+git-tree-sha1 = "110ec40ac44f7d6d4215cc90a4ab0a7f70f320f4"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libxkbfile.download]]
-    sha256 = "a717ca5f369030d730d98aee80e513eb6298c83a76378d0e1814d17f92a7471f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.aarch64-linux-musl.tar.gz"
+    sha256 = "1aff619f4e5d5df63cc141df3289c985d950fc001ad3cf17d100797b57900b5e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.aarch64-linux-musl.tar.gz"
 [[Xorg_libxkbfile]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "1db094138a5d6eede6408103004741700cb83936"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "cdd19ac4cc90402ce357ae9d9a0de6b6a67fba97709ae75e20d96bc33b6d6837"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.armv6l-linux-gnueabihf.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "ee8c7bb1c9475f3d4ba475da0fd0651b20594dd4"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "89722f0e8f5868bc703685fef4b4911592e00c7b6c81f99b4db9e06b00769648"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.armv6l-linux-musleabihf.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "a158d9637d6a4e7fe110c2fedd3283189bd368f5"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "06bed356cb1bd35cbf1e5bf6a82d11414dc8df13149d2fcae02a32db992147b5"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.armv7l-linux-gnueabihf.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "b09b16984aac5bb8984589b9ba66f6d7fbe830b1"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "23628ccdd31c3770da5339686890b967981896d5b665f664f8655588bd2c38b2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.armv7l-linux-musleabihf.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "i686"
-git-tree-sha1 = "d2aeec9aca3280c095a65a43ade0cfcc5fcd14f6"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "4d1c75f21ce72c6d7177e5b93a3f794b56b5cd8a532dabd264f8da83de0e9cbd"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.i686-linux-gnu.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "i686"
-git-tree-sha1 = "4c50a23d8c381f81f8e04bcd2aaff10c79ce098e"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "21ed6a3a63fb4c090b4c6e7c6ef39f6f25935c85140185284276819e3449afe5"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.i686-linux-musl.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "powerpc64le"
-git-tree-sha1 = "6731cfa070af026c848361be50903d94f385e18b"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "04fea84449256a4b4fa9ce4c9f52d2e9a314e5a69c78caf2f58a128add50b822"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.powerpc64le-linux-gnu.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "x86_64"
-git-tree-sha1 = "9d7f5887309a96013a2c75f48b5e137e60ccae8f"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "144d044ac216d3305ba3925fc4b13a3faa0d518f4865b2e32afeecc6c178ec7f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.x86_64-linux-gnu.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "x86_64"
-git-tree-sha1 = "7e1ee6d9d26f69e1dddb971ee5b7a9f5872d688e"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_libxkbfile.download]]
-    sha256 = "a0183f9b4ff433fda0820a14226a35e9cc8117910d9a4a75544a0fb405e329f0"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.x86_64-linux-musl.tar.gz"
-[[Xorg_libxkbfile]]
-arch = "x86_64"
-git-tree-sha1 = "2871e53e5ad42865ee445c6b2da37c7b148c97cb"
+arch = "aarch64"
+git-tree-sha1 = "636eea3c245159827f26cb9859becc78cef1ab22"
 os = "freebsd"
 
     [[Xorg_libxkbfile.download]]
-    sha256 = "30adbdaba229d438ff19dc4ad04223aa4fd3bf4fdf390dd44f5d64466a8d2e6c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+0/Xorg_libxkbfile.v1.1.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cffb843a782f82c503d1f34a12717f775e75d11367551bc67c62a6f6ddc465d8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.aarch64-unknown-freebsd.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "42bdbce5bc1e48d9a358ffe75ce43befe7cc31ff"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "efa3e8f39c1da1f339f89514b65ab5f9ddf946eabc54895d484c0108fb8edcd8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.armv6l-linux-gnueabihf.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e8a57e77786b324faedb07e4bb4b5c51c88370e3"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "73f18d75233054f6c9fd6bbd9bb2d22d86110bdb198f1c96b67577cc355fe2e7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.armv6l-linux-musleabihf.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bedfd5596abfcf67c0a385b53a3c32010a44c72c"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "bb8e4cb181e4ff2c188081170a34f01bb6a1e96b552147eaf0c383805a0afa90"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "963e54afbeaf7532389e113692c27708f4fa17f4"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "0842679108bf9fcdfc6a670f159af91bbdd7ddfb84883ae4364d8815913f1920"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.armv7l-linux-musleabihf.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "i686"
+git-tree-sha1 = "da35eeac69e6f5bf5896deb090d4b47c908db070"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "eca7bacd09570da2b34fd6acac854179e2740cf120806d1c9002b93622058a78"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.i686-linux-gnu.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "i686"
+git-tree-sha1 = "d9583dd21ea7c698732fded349eb66ed4265a2df"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "c61a2202e6cf749c5b1c677dbf5a46b5fd12c852d9a0d19288f28fda8461d878"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.i686-linux-musl.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "powerpc64le"
+git-tree-sha1 = "01276e1c0b267c24e657dab1412afe9903b39e09"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "7a38ed6decceb568f26690c4246fc0d1c09d5b2890b631ebe3007b2c8657f47d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "x86_64"
+git-tree-sha1 = "663409920d88c928b764932f501919306eb3a558"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "6cb36a041df0e12e5f75e9a3e529bc8906e53dcaa89443536fa493208689ca50"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.x86_64-linux-gnu.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "x86_64"
+git-tree-sha1 = "324e52d2d3b6cf36b7df336bd03097c111686c7d"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "93c4f29969c597a3aa4958a05f045b7ec90735ef06abfce123f04cadf19733bc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.x86_64-linux-musl.tar.gz"
+[[Xorg_libxkbfile]]
+arch = "x86_64"
+git-tree-sha1 = "a1288f19cee23f5806f2feb6e332a7cef90b7d7f"
+os = "freebsd"
+
+    [[Xorg_libxkbfile.download]]
+    sha256 = "6f97b6d2818c0990742357bfd713635e75e2037917f73b854d50836ae38a0458"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxkbfile_jll.jl/releases/download/Xorg_libxkbfile-v1.1.2+1/Xorg_libxkbfile.v1.1.2.x86_64-unknown-freebsd.tar.gz"
